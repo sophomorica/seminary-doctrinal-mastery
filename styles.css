@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#quizContainer {
+  transition: 0.3s;
+}
+
+.choice {
+  cursor: pointer;
+  background-color: #126eca;
+  border: 1px solid #0b345e;
+  border-radius: 0.25rem;
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+}
+
+.choice:hover {
+  background-color: #640f6f;
+}
+
+#result {
+  font-size: 18px;
+  font-weight: bold;
+}
