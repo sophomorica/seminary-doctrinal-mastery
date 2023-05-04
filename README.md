@@ -9,7 +9,7 @@ Create a folder called Seminary on your computer
 
 Open VSCode in that folder. 
 
-Press "`ctrl + `" this opens a terminal in vscode
+Press "ctrl + (the button to the left of the 1)" this opens a terminal in vscode
 
 in the terminal copy paste this "git clone https://github.com/sophomorica/seminary-doctrinal-mastery.git"
 
